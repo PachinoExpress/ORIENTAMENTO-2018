@@ -16,6 +16,7 @@
         <File name="Balli di gruppo-  Gioca Juer" src="behavior_1/Balli di gruppo-  Gioca Juer.mp3" />
         <File name="icon" src="icon.png" />
         <File name="7" src="behavior_1/7.mp3" />
+        <File name="README" src="README.md" />
     </Resources>
     <Topics />
     <IgnoredPaths>
