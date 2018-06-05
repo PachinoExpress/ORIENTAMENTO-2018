@@ -13,10 +13,10 @@
         <File name="La Macarena" src="behavior_1/La Macarena.mp3" />
         <File name="Rocky Balboa - theme" src="behavior_1/Rocky Balboa - theme.mp3" />
         <File name="Tarantella" src="behavior_1/Tarantella.mp3" />
-        <File name="Balli di gruppo-  Gioca Juer" src="behavior_1/Balli di gruppo-  Gioca Juer.mp3" />
         <File name="icon" src="icon.png" />
         <File name="7" src="behavior_1/7.mp3" />
         <File name="README" src="README.md" />
+        <File name="Base Gioca Jouer" src="behavior_1/Base Gioca Jouer.mp3" />
     </Resources>
     <Topics />
     <IgnoredPaths>
